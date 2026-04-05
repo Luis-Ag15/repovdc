@@ -21,5 +21,6 @@ whitenoise==6.11.0
 cryptography
 channels
 daphne
+gunicorn
 
 
